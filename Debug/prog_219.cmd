@@ -1,0 +1,1 @@
+ftdi_cdce913_prog.exe --filecfg 219.3_.bin --write-reg

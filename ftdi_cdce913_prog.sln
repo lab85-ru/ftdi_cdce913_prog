@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ftdi_cdce913_prog", "ftdi_cdce913_prog\ftdi_cdce913_prog.vcproj", "{9CDAF2A3-370E-4108-B420-A8C4AA68C92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDAF2A3-370E-4108-B420-A8C4AA68C92D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9CDAF2A3-370E-4108-B420-A8C4AA68C92D}.Debug|Win32.Build.0 = Debug|Win32
+		{9CDAF2A3-370E-4108-B420-A8C4AA68C92D}.Release|Win32.ActiveCfg = Release|Win32
+		{9CDAF2A3-370E-4108-B420-A8C4AA68C92D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

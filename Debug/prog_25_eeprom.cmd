@@ -1,0 +1,1 @@
+ftdi_cdce913_prog.exe --filecfg 25.165_.bin --write-reg --eeprom
