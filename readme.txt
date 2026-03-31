@@ -1,3 +1,5 @@
+Programmator pll TI CDCE913 in FTDI (I2C).
+
 Программатор TI PLL CDCE913 при помощи FTDI FT232H (или подобной).
 
 Порядок работы.
